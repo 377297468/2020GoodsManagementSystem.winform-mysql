@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "货物库存系统_张永法", "货物库存系统_张永法\货物库存系统_张永法.csproj", "{D940D585-C209-41FA-89A5-A5BA7F09BEBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D940D585-C209-41FA-89A5-A5BA7F09BEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D940D585-C209-41FA-89A5-A5BA7F09BEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D940D585-C209-41FA-89A5-A5BA7F09BEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D940D585-C209-41FA-89A5-A5BA7F09BEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28576DB2-6F91-4573-8CEA-FE7F6157BA16}
+	EndGlobalSection
+EndGlobal
