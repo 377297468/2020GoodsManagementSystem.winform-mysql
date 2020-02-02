@@ -1,0 +1,16 @@
+C:\Users\37729\source\repos\货物库存系统_张永法\货物库存系统_张永法\bin\Debug\货物库存系统_张永法.exe.config
+C:\Users\37729\source\repos\货物库存系统_张永法\货物库存系统_张永法\bin\Debug\货物库存系统_张永法.exe
+C:\Users\37729\source\repos\货物库存系统_张永法\货物库存系统_张永法\bin\Debug\货物库存系统_张永法.pdb
+C:\Users\37729\source\repos\货物库存系统_张永法\货物库存系统_张永法\obj\Debug\货物库存系统_张永法.csprojAssemblyReference.cache
+C:\Users\37729\source\repos\货物库存系统_张永法\货物库存系统_张永法\obj\Debug\货物库存系统_张永法.Form1.resources
+C:\Users\37729\source\repos\货物库存系统_张永法\货物库存系统_张永法\obj\Debug\货物库存系统_张永法.Properties.Resources.resources
+C:\Users\37729\source\repos\货物库存系统_张永法\货物库存系统_张永法\obj\Debug\货物库存系统_张永法.csproj.GenerateResource.cache
+C:\Users\37729\source\repos\货物库存系统_张永法\货物库存系统_张永法\obj\Debug\货物库存系统_张永法.csproj.CoreCompileInputs.cache
+C:\Users\37729\source\repos\货物库存系统_张永法\货物库存系统_张永法\obj\Debug\货物库存系统_张永法.exe
+C:\Users\37729\source\repos\货物库存系统_张永法\货物库存系统_张永法\obj\Debug\货物库存系统_张永法.pdb
+C:\Users\37729\source\repos\货物库存系统_张永法\货物库存系统_张永法\bin\Debug\MySql.Data.dll
+C:\Users\37729\source\repos\货物库存系统_张永法\货物库存系统_张永法\bin\Debug\Google.Protobuf.dll
+C:\Users\37729\source\repos\货物库存系统_张永法\货物库存系统_张永法\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\37729\source\repos\货物库存系统_张永法\货物库存系统_张永法\bin\Debug\MySql.Data.xml
+C:\Users\37729\source\repos\货物库存系统_张永法\货物库存系统_张永法\obj\Debug\货物库存系统_张永法.GoodsitemForm.resources
+C:\Users\37729\source\repos\货物库存系统_张永法\货物库存系统_张永法\obj\Debug\货物库存系统_张永法.csproj.CopyComplete
